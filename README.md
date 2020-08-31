@@ -60,10 +60,12 @@ It also posible to Bulleting by numbering.
 
 ![Just Add an Image](https://picsum.photos/id/1039/450/300)
 
-Inline-style: 
+Inline-style:
+
 ![|Some Text here](https://picsum.photos/450/300 "Image with Inline Title")
 
-Reference-style: 
+Reference-style:
+
 ![alt text][picture]
 
 
