@@ -122,3 +122,19 @@ Reference-style:
 
 A lot of Emoji are supported by Github. Follow this Link
 [Github Supported Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+
+## 🔰🔰🔰Display videos from YouTube🔰🔰🔰
+
+This method works for YouTube videos and any other embed video within an <iframe> tag.
+
+
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
