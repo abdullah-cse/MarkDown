@@ -138,3 +138,10 @@ This method works for YouTube videos and any other embed video within an <iframe
 <!-- blank line -->
 
 
+  ## 🔰🔰🔰FootNote Referencing🔰🔰🔰
+  
+I am referencing a footnote [^1]
+
+My main text goes here. End of this paragraph a will show the reference.
+
+[^1]: I am the footnote
